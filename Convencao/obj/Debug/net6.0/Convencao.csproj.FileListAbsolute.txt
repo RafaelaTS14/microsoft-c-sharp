@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\bin\Debug\net6.0\Convencao.exe
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\bin\Debug\net6.0\Convencao.deps.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\bin\Debug\net6.0\Convencao.runtimeconfig.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\bin\Debug\net6.0\Convencao.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\bin\Debug\net6.0\Convencao.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\obj\Debug\net6.0\Convencao.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\obj\Debug\net6.0\Convencao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\obj\Debug\net6.0\Convencao.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\obj\Debug\net6.0\Convencao.AssemblyInfo.cs
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\obj\Debug\net6.0\Convencao.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\obj\Debug\net6.0\Convencao.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\obj\Debug\net6.0\refint\Convencao.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\obj\Debug\net6.0\Convencao.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\obj\Debug\net6.0\Convencao.genruntimeconfig.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\Convencao\obj\Debug\net6.0\ref\Convencao.dll

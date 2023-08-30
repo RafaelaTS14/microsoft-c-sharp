@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Matriz\\Convencao\\Convencao.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Convencao\\Convencao.csproj",
       "projectName": "Convencao",
-      "projectPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Matriz\\Convencao\\Convencao.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Convencao\\Convencao.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Matriz\\Convencao\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Convencao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
