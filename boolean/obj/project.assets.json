@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Foreach\\Foreach.csproj",
-      "projectName": "Foreach",
-      "projectPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Foreach\\Foreach.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\boolean\\boolean.csproj",
+      "projectName": "boolean",
+      "projectPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\boolean\\boolean.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Foreach\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\boolean\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

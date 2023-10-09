@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\bin\Debug\net6.0\boolean.exe
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\bin\Debug\net6.0\boolean.deps.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\bin\Debug\net6.0\boolean.runtimeconfig.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\bin\Debug\net6.0\boolean.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\bin\Debug\net6.0\boolean.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\obj\Debug\net6.0\boolean.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\obj\Debug\net6.0\boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\obj\Debug\net6.0\boolean.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\obj\Debug\net6.0\boolean.AssemblyInfo.cs
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\obj\Debug\net6.0\boolean.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\obj\Debug\net6.0\boolean.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\obj\Debug\net6.0\refint\boolean.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\obj\Debug\net6.0\boolean.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\obj\Debug\net6.0\boolean.genruntimeconfig.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\boolean\obj\Debug\net6.0\ref\boolean.dll
