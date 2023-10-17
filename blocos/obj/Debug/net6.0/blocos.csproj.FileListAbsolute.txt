@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\bin\Debug\net6.0\blocos.exe
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\bin\Debug\net6.0\blocos.deps.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\bin\Debug\net6.0\blocos.runtimeconfig.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\bin\Debug\net6.0\blocos.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\bin\Debug\net6.0\blocos.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\obj\Debug\net6.0\blocos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\obj\Debug\net6.0\blocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\obj\Debug\net6.0\blocos.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\obj\Debug\net6.0\blocos.AssemblyInfo.cs
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\obj\Debug\net6.0\blocos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\obj\Debug\net6.0\blocos.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\obj\Debug\net6.0\refint\blocos.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\obj\Debug\net6.0\blocos.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\obj\Debug\net6.0\blocos.genruntimeconfig.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\blocos\obj\Debug\net6.0\ref\blocos.dll
