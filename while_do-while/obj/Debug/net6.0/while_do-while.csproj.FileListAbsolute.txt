@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\bin\Debug\net6.0\while_do-while.exe
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\bin\Debug\net6.0\while_do-while.deps.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\bin\Debug\net6.0\while_do-while.runtimeconfig.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\bin\Debug\net6.0\while_do-while.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\bin\Debug\net6.0\while_do-while.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\obj\Debug\net6.0\while_do-while.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\obj\Debug\net6.0\while_do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\obj\Debug\net6.0\while_do-while.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\obj\Debug\net6.0\while_do-while.AssemblyInfo.cs
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\obj\Debug\net6.0\while_do-while.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\obj\Debug\net6.0\while_do-while.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\obj\Debug\net6.0\refint\while_do-while.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\obj\Debug\net6.0\while_do-while.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\obj\Debug\net6.0\while_do-while.genruntimeconfig.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\while_do-while\obj\Debug\net6.0\ref\while_do-while.dll
