@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\obj\Debug\net6.0\conversao.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\obj\Debug\net6.0\conversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\obj\Debug\net6.0\conversao.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\obj\Debug\net6.0\conversao.AssemblyInfo.cs
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\obj\Debug\net6.0\conversao.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\bin\Debug\net6.0\conversao.exe
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\bin\Debug\net6.0\conversao.deps.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\bin\Debug\net6.0\conversao.runtimeconfig.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\bin\Debug\net6.0\conversao.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\bin\Debug\net6.0\conversao.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\obj\Debug\net6.0\conversao.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\obj\Debug\net6.0\refint\conversao.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\obj\Debug\net6.0\conversao.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\obj\Debug\net6.0\conversao.genruntimeconfig.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\conversao\obj\Debug\net6.0\ref\conversao.dll
