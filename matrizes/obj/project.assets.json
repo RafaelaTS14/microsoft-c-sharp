@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Projeto\\Projeto.csproj",
-      "projectName": "Projeto",
-      "projectPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Projeto\\Projeto.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\matrizes\\matrizes.csproj",
+      "projectName": "matrizes",
+      "projectPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\matrizes\\matrizes.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\Projeto\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\dev\\microsoft-c-sharp\\matrizes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
