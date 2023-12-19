@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\bin\Debug\net6.0\cadeias.exe
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\bin\Debug\net6.0\cadeias.deps.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\bin\Debug\net6.0\cadeias.runtimeconfig.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\bin\Debug\net6.0\cadeias.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\bin\Debug\net6.0\cadeias.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\obj\Debug\net6.0\cadeias.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\obj\Debug\net6.0\cadeias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\obj\Debug\net6.0\cadeias.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\obj\Debug\net6.0\cadeias.AssemblyInfo.cs
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\obj\Debug\net6.0\cadeias.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\obj\Debug\net6.0\cadeias.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\obj\Debug\net6.0\refint\cadeias.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\obj\Debug\net6.0\cadeias.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\obj\Debug\net6.0\cadeias.genruntimeconfig.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\cadeias\obj\Debug\net6.0\ref\cadeias.dll
