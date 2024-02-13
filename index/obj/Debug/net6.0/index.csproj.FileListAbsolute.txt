@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\obj\Debug\net6.0\index.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\obj\Debug\net6.0\index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\obj\Debug\net6.0\index.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\obj\Debug\net6.0\index.AssemblyInfo.cs
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\obj\Debug\net6.0\index.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\bin\Debug\net6.0\index.exe
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\bin\Debug\net6.0\index.deps.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\bin\Debug\net6.0\index.runtimeconfig.json
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\bin\Debug\net6.0\index.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\bin\Debug\net6.0\index.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\obj\Debug\net6.0\index.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\obj\Debug\net6.0\refint\index.dll
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\obj\Debug\net6.0\index.pdb
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\obj\Debug\net6.0\index.genruntimeconfig.cache
+C:\Users\user\Desktop\dev\microsoft-c-sharp\index\obj\Debug\net6.0\ref\index.dll
